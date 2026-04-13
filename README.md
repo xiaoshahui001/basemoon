@@ -12,3 +12,4 @@ BASE上，值得交互的有价值的APP，还是需要好好找找，virtuals�
 base上好像没有链游
 base生态一般，值得交互的不多
 baseAPP是官方重点推荐，但感觉很一般
+baseAPP的界面比较混乱
