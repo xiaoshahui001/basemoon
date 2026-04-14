@@ -13,4 +13,4 @@ base上好像没有链游
 base生态一般，值得交互的不多
 baseAPP是官方重点推荐，但感觉很一般
 baseAPP的界面比较混乱，没有什么值得交互
-moonwell感觉还可以，有点东西
+moonwell感觉还可以，有点东西。今天交互stake well，准备参与治理
