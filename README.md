@@ -19,3 +19,4 @@ moonwell感觉还可以，有点东西。今天交互stake well，准备参与�
 直接发币吧
 今天准备研究点什么？
 virtuals看看，还是deposit,stake等交互，金库可以看看交互，金库比较稳
+没有大资金交互base是白搭
