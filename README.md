@@ -20,3 +20,4 @@ moonwell感觉还可以，有点东西。今天交互stake well，准备参与�
 今天准备研究点什么？
 virtuals看看，还是deposit,stake等交互，金库可以看看交互，金库比较稳，里面有好几U的资产，居然stake了两年；
 没有大资金交互base是白搭，零撸现在不流行
+BASE主网必须起来，生态才有希望
