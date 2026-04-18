@@ -29,3 +29,4 @@ kraken简直贵的离谱，放弃
 体验avantisfi进行deposit,staking
 搜寻一些值得交互的base生态项目，小众的？
 太小众没有前途，尽量少做存钱类，纯交互可以考虑
+uniswap其实还可以，只不过没有新意
