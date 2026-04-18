@@ -28,4 +28,4 @@ seamless关停了，我靠
 kraken简直贵的离谱，放弃
 体验avantisfi进行deposit,staking
 搜寻一些值得交互的base生态项目，小众的？
-太小众没有前途
+太小众没有前途，尽量少做存钱类
