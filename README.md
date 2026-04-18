@@ -26,3 +26,4 @@ BASE主网必须起来，生态才有希望
 多做即存即取的项目，一些项目的deposit，
 seamless关停了，我靠
 kraken简直贵的离谱，放弃
+体验avantisfi进行deposit,staking
