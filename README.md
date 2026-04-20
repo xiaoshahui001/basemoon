@@ -33,3 +33,4 @@ uniswap其实还可以，只不过没有新意，老项目，base官方不是很
 推特上比较多项目，但鱼龙混杂，base官方推荐的APP一般也不行，
 avantisfi其实比较一般，没有特点；
 aave又被连累？大户的游戏。很多ETH被黑客借出去了，这真是莫名其妙；
+在pancakeswap的BASE链进行liquidity;
