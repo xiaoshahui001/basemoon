@@ -36,4 +36,4 @@ avantisfi其实比较一般，没有特点；
 aave又被连累？大户的游戏。很多ETH被黑客借出去了，这真是莫名其妙；
 在pancakeswap的BASE链进行liquidity;估计也没戏啊
 继续BASE生态项目研究，亮点不多，标准具体是什么
-继续继续，base走起来
+继续继续，base走起来，moonwell继续mamo
