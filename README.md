@@ -39,3 +39,4 @@ aave又被连累？大户的游戏。很多ETH被黑客借出去了，这真是�
 继续继续，base走起来，moonwell继续mamo
 base在guild上的角色，要完成
 moonwell加大力度,继续交互
+推特上的base信息多起来，有空投的
